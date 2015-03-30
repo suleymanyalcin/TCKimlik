@@ -1,5 +1,5 @@
 # TCKimlik
-Bu Kütüphane TCK(Türkiye Cumhuriyeti Kimkilik) numarasının doğruluğunu
+Bu Kütüphane TCK(Türkiye Cumhuriyeti Kimlik) numarasının doğruluğunu
 https://tckimlik.nvi.gov.tr/Service/KPSPublicv2.asmx?WSDL adresinde yayınlanan servisi kullanarak 
 kontrol etmenizi sağlar.
 
